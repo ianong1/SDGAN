@@ -1,0 +1,2 @@
+# SDGAN
+for paper
